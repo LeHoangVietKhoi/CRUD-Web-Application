@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Program%20Files/NetBeansProjects/Asignment_PRJ321_SE63329_LeHoangVietKhoi/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Program%20Files/NetBeansProjects/Asignment_PRJ321_SE63329_LeHoangVietKhoi/src/java/khoilhv/user/AccountDAO.java</file>
+            <file>file:/D:/Program%20Files/NetBeansProjects/Asignment_PRJ321_SE63329_LeHoangVietKhoi/web/onlineStore.jsp</file>
+            <file>file:/D:/Program%20Files/NetBeansProjects/Asignment_PRJ321_SE63329_LeHoangVietKhoi/src/java/khoilhv/servlet/SearchLastNameServlet.java</file>
+            <file>file:/D:/Program%20Files/NetBeansProjects/Asignment_PRJ321_SE63329_LeHoangVietKhoi/src/java/khoilhv/servlet/AddItemToCartServlet.java</file>
+            <file>file:/D:/Program%20Files/NetBeansProjects/Asignment_PRJ321_SE63329_LeHoangVietKhoi/src/java/khoilhv/filters/DispatchFilter.java</file>
+            <file>file:/D:/Program%20Files/NetBeansProjects/Asignment_PRJ321_SE63329_LeHoangVietKhoi/src/java/khoilhv/servlet/RemoveItemFromCartServlet.java</file>
+            <file>file:/D:/Program%20Files/NetBeansProjects/Asignment_PRJ321_SE63329_LeHoangVietKhoi/src/java/khoilhv/servlet/createNewAccountServlet.java</file>
+            <file>file:/D:/Program%20Files/NetBeansProjects/Asignment_PRJ321_SE63329_LeHoangVietKhoi/src/java/khoilhv/listerner/MyContextServletListener.java</file>
+        </group>
+    </open-files>
+</project-private>
